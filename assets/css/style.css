@@ -99,27 +99,27 @@ body {
     margin: 0 auto;
     overflow: hidden;
   }
-  .colum_1 {
+  .column_1 {
     width: 48%;
     float: left;
     text-align: end;
   }
-  .colum_1 h1 {
+  .column_1 h1 {
     margin-bottom: 10px;
     font-size: 70px;
     color: #F15767;
   
   }
-  .colum_1 p {
+  .column_1 p {
     font-size: 20px;
     line-height: 35px;
     color: #1D3360;
   }
-  .colum_2 {
+  .column_2 {
     width: 48%;
     float: right;
   }
-  .colum_2 h1 {
+  .column_2 h1 {
    font-size: 57px;
    color: #0F265B;
   }
